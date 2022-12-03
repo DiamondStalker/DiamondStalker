@@ -1,9 +1,37 @@
 <h1 align="center">Hi 👋, I'm Diamond Stalker - Carlos Moreno</h1>
 <h3 align="center">I am passionate about programming and video games.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diamondstalker&label=Profile%20views&color=0e75b6&style=flat" alt="diamondstalker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diamondstalker&theme=dracula" alt="diamondstalker" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diamondstalker&label=Profile%20views&color=0e75b6&style=flat" alt="diamondstalker" />
+    <a href="https://github.com/DiamondStalker/github-readme-stats/actions">
+    <a href="https://github.com/DiamondStalker/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/DiamondStalker/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/DiamondStalker/github-readme-stats">
+      <img src="https://codecov.io/gh/DiamondStalker/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/DiamondStalker/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/DiamondStalker/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/DiamondStalker/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/DiamondStalker/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+  </p>
+  
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diamondstalker&theme=dracula" alt="diamondstalker" /></a> </p>
+
+
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/carlos-moreno-diamondstalker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="diamondstalker" /></a>
+ </p>
+
+
+
+
 
 - 📫 How to reach me **cmoreno981@gmiail.com**
 
