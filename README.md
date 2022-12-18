@@ -14,7 +14,7 @@
     <a href="https://github.com/DiamondStalker/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/DiamondStalker/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/DiamondStalker/github-readme-stats/pulls">
+    <a href="https://github.com/DiamondStalker/Distribuida_Paralela/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/DiamondStalker/github-readme-stats?color=0088ff" />
     </a>
     <br />
@@ -26,7 +26,7 @@
 
 
 <p align="center"> 
- <a href="https://www.linkedin.com/in/carlos-moreno-diamondstalker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="diamondstalker" /></a> <a href="https://www.youtube.com/c/DiamondStalker"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=Youtube" alt="diamondstalker" /></a> <a href="mailto:cmoreno981@gmail.com"><img src="https://img.shields.io/badge/youtube-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="diamondstalker" /></a>
+ <a href="https://www.linkedin.com/in/carlos-moreno-diamondstalker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="diamondstalker" /></a>  <a href="https://www.youtube.com/c/DiamondStalker"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=Youtube" alt="diamondstalker" /></a>  <a href="mailto:cmoreno981@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="diamondstalker" /></a>
  </p>
 
 
