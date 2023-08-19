@@ -60,3 +60,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=SistemaDeportes&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=Distribuida_Paralela&show_icons=true&theme=dracula"/>
 </details>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DiamondStalker/DiamondStalker/output/snake.svg" alt="Snake animation" />
