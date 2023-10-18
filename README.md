@@ -68,3 +68,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=SistemaDeportes&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=Distribuida_Paralela&show_icons=true&theme=dracula"/>
 </details>
+
+<div class="col col--links">
+                                    <div><a target="_blank" title="https://jobs.castle-employment.co.uk/" href="https://jobs.castle-employment.co.uk/">JobSite</a></div>
+                                    <div><a target="_blank" title="https://castle-employment.co.uk/" href="https://castle-employment.co.uk/">HomePage</a></div>
+                                </div>
