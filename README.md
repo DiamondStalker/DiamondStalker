@@ -30,7 +30,7 @@
 
 
 
-- 📫 How to reach me **cmoreno981@gmiail.com**
+- 📫 How to reach me **cmoreno981@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
