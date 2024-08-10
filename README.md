@@ -20,6 +20,7 @@
     <a href="https://github.com/DiamondStalker/Distribuida_Paralela/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/DiamondStalker/github-readme-stats?color=0088ff" />
     </a>
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/DiamondStalker/App-Automatizacion?style=flat&logo=Git&label=App-Automatizacion_Commits">
     <br />
     <br />
   </p>
@@ -54,8 +55,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiamondStalker&theme=dark" alt="DiamondStalker" /></p>
 </details>
 
-<details>
-<summary><b>Pin Repos</b></summary><br/>
+
+<b>Pin Repos</b><br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=App-Automatizacion&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=JuegoCartas&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=SistemaDeportes&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=Distribuida_Paralela&show_icons=true&theme=dracula"/>
-</details>
+
