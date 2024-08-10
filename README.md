@@ -26,7 +26,7 @@
 
 
 <p align="center"> 
- <a href="https://www.linkedin.com/in/carlos-moreno-diamondstalker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="diamondstalker" /></a>  <a href="https://www.youtube.com/c/DiamondStalker"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=Youtube" alt="diamondstalker" /></a>  <a href="mailto:cmoreno981@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="diamondstalker" /></a>
+ <a href="https://www.linkedin.com/in/carlos-moreno-diamondstalker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="diamondstalker" /></a>  <a href="https://www.youtube.com/c/DiamondStalker"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=Youtube" alt="diamondstalker" /></a>  <a href="mailto:cmoreno981@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="diamondstalker" /></a>  <a href="https://www.hackerrank.com/profile/DiamondStalker"><img src="https://img.shields.io/badge/HackerRank-a?style=for-the-badge&logo=hackerrank&labelColor=161b25&color=161b25" alt="diamondstalker" /></a>
  </p>
 
 
