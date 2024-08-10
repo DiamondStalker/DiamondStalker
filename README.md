@@ -56,9 +56,18 @@
 </details>
 
 
-<b>Pin Repos</b><br/>
+<b>Pin Repos</b><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=App-Automatizacion&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=JuegoCartas&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=SistemaDeportes&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondStalker&repo=Distribuida_Paralela&show_icons=true&theme=dracula"/>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiamondStalker&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
