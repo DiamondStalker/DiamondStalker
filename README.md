@@ -32,12 +32,13 @@
 </a>
 
  </p>
+ 
+<center>
+  
+  [![Badge](./Badge/lifelong-learning.png)](https://www.credly.com/badges/5b2d7c6f-b180-4238-91be-ab149cbb1e9f)
+  
+</center>
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b2d7c6f-b180-4238-91be-ab149cbb1e9f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-- 📫 How to reach me **cmoreno981@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
