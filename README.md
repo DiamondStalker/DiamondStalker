@@ -36,6 +36,7 @@
 <center>
   
   [![Badge](./Badge/scrum-foundation-professional-certification-sfpc.1.png)](https://www.credly.com/badges/5b2d7c6f-b180-4238-91be-ab149cbb1e9f)
+  [![Badge](./Badge/networking-basics.png)](https://www.credly.com/badges/d8d0c3ed-acf0-41f3-af63-a5b9ab6cbe16/public_url)
   
 </center>
 
